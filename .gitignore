@@ -1,0 +1,22 @@
+.git
+*.env
+*.exe
+.DS_Store
+
+server-vue/node_modules
+server-vue/dist
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
